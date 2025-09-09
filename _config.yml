@@ -3,4 +3,4 @@ description: Reference
 theme: just-the-docs
 
 url: https://alex-gekas.github.io
-baseurl: /nws_api_docs   # <— repo name; omit for user/organization site
+baseurl: /nws_api_docs
